@@ -33,7 +33,7 @@ public:
 
 };
 
-void Zad3();
+void Zad3();//бла бла бла
 
 void Zad2();
 
